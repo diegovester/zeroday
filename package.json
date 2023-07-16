@@ -1,31 +1,31 @@
 {
-	"name": "@author/package",
+	"name": "@diegovester/zeroday",
 	"version": "0.0.0",
 	"description": "{description}",
 	"license": "MIT",
 	"author": {
 		"name": "Samantha",
-		"url": "https://github.com/{libauthor}"
+		"url": "https://github.com/diegovester"
 	},
 	"keywords": [
 		"typescript"
 	],
-	"bugs": "https://github.com/{libauthor}/{libname}/issues",
+	"bugs": "https://github.com/diegovester/diegovester/issues",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/{libauthor}/{libname}.git"
+		"url": "git+https://github.com/diegovester/diegovester.git"
 	},
 	"funding": {
 		"type": "individual",
-		"url": "https://github.com/sponsors/{libauthor}"
+		"url": "https://github.com/sponsors/diegovester"
 	},
 	"type": "module",
-	"main": "./dist/{libname}.umd.js",
-	"module": "./dist/{libname}.es.js",
+	"main": "./dist/diegovester.umd.js",
+	"module": "./dist/diegovester.es.js",
 	"exports": {
 		".": {
-			"import": "./dist/{libname}.es.js",
-			"require": "./dist/{libname}.umd.js"
+			"import": "./dist/diegovester.es.js",
+			"require": "./dist/diegovester.umd.js"
 		}
 	},
 	"types": "./dist/index.d.ts",
