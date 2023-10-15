@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "flint",
+			"path": "../flint"
+		},
+		{
+			"name": "zeroday",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

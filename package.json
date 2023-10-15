@@ -10,10 +10,10 @@
 	"keywords": [
 		"typescript"
 	],
-	"bugs": "https://github.com/diegovester/diegovester/issues",
+	"bugs": "https://github.com/diegovester/zeroday/issues",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/diegovester/diegovester.git"
+		"url": "git+https://github.com/diegovester/zeroday.git"
 	},
 	"funding": {
 		"type": "individual",

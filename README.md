@@ -1,13 +1,13 @@
-# `@diegovester/diegovester`
+# `@diegovester/zeroday`
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub deployments](https://img.shields.io/github/deployments/diegovester/zeroday/github-pages?label=deploy)](https://github.com/diegovester/zeroday/deployments/activity_log?environment=github-pages)
 [![Node.js workflow](https://github.com/diegovester/zeroday/actions/workflows/main.yml/badge.svg)](https://github.com/diegovester/zeroday/actions/workflows/main.yml)
 
-Describe the library.
+A library for analyzing zero-day attack vectors
 
 ## Install
 ```
-npm install @diegovester/diegovester
+npm install @diegovester/zeroday
 ```
 
 ## License
